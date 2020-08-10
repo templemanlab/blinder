@@ -4,8 +4,8 @@ A Ruby script to randomize filenames.
 
 ## Installation
 
-1. Download `blinder.command`
-2. Make `blinder.command` executable by running the following command in Terminal
+1. Download and unzip `blinder`
+2. Make `blinder.command` executable by running the following command in the unzipped folder in Terminal
 
    ```
    chmod +x blinder.command
