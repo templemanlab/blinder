@@ -1,4 +1,4 @@
-# blinder
+# Blinder
 
 A Ruby script to randomize filenames.
 
